@@ -1,0 +1,19 @@
+{
+  "name": "caps-js-sdk",
+  "version": "0.0.1",
+  "description": "A complete library to integrate Cross-App Profile System with your dApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-caps/caps-js-sdk.git"
+  },
+  "author": "Alexey Sadkovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/project-caps/caps-js-sdk/issues"
+  },
+  "homepage": "https://github.com/project-caps/caps-js-sdk#readme"
+}
